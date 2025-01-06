@@ -1,6 +1,6 @@
 # Blog-API
 
-A simple blog application that provides a RESTful API for managing blog posts and a frontend interface to interact with the data. This project demonstrates the separation of backend and frontend logic for modular and scalable application development.
+A simple blog application that provides a -> RESTful API for managing blog posts and a frontend interface to interact with the data. This project demonstrates the separation of backend and frontend logic for modular and scalable application development.
 
 ---
 
